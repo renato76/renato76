@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @ren-plentific
+- 👋 Hi, I’m Ren
 - 👀 I’m interested in football, music, movies, hiking.
 - 🌱 I’m currently learning TypeScript and Alt JS
 - 💞️ I’m looking to collaborate on React projects
