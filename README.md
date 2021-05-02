@@ -1,7 +1,8 @@
 
-- Hey I'm Ren - Thanks for visitng my GitHub Page! 😀
-
+- 👋 Hi, I’m @ren-plentific
 - 👀 I’m interested in football, music, movies, hiking.
 - 🌱 I’m currently learning TypeScript and Alt JS
 - 💞️ I’m looking to collaborate on React projects
-- 📫 You can reach me at renmignogna@gmail.com
+- 📫 Feel free to reach out on LinkedIn: https://www.linkedin.com/in/renato-mignogna/
+- ⭐️ Or email me at renmignogna@gmail.com
+
