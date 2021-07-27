@@ -8,7 +8,6 @@ As a hobby, I like playing the drums, playing football and learning about new te
 
 Technologies: JavaScript, TypeScript, React, Node, GraphQL, AWS(S3, EC2), REST APIs, HTML 5, CSS3, Git, Gitlab, Bootstrap, SASS, PostgreSQL, Jira, Confluence
 
-- 💞️ I’m looking to collaborate on React projects
 - 📫 Feel free to reach out on LinkedIn: https://www.linkedin.com/in/renato-mignogna/
 - ⭐️ Or email me at renmignogna@gmail.com
 
