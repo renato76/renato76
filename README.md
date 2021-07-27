@@ -1,7 +1,13 @@
+I am a Frontend Developer proficient in the modern JavaScript stack with experience using the latest web technologies including React.js, Node, GraphQL and Typescript. I also have hands-on experience with AWS on the cloud, particularly EC2 and S3. Always looking to improve myself I love contributing to Agile software companies building amazing experiences on the Web. I care about writing clean code, working collaboratively, and learning new technologies.
 
-- 👋 Hi, I’m Ren
-- 👀 I’m interested in football, music, movies, hiking.
-- 🌱 I’m currently learning TypeScript and Alt JS
+After years of being fascinated by programming and software development (I started creating websites for small clients more than 5 years ago) I decided to turn my side gig into a profession and build a professional career as a frontend developer. With the aim of professionalizing my skills I successfully graduated from General Assembly gaining proficiency in JavaScript technology and started my software development career.
+
+Currently I work at Plentific as a frontend developer building the main client side application, dealing with complex dashboards, state management and the various challenges of performant frontend applications.
+
+As a hobby, I like playing the drums, playing football and learning about new technologies.
+
+Technologies: JavaScript, TypeScript, React, Node, GraphQL, AWS(S3, EC2), REST APIs, HTML 5, CSS3, Git, Gitlab, Bootstrap, SASS, PostgreSQL, Jira, Confluence
+
 - 💞️ I’m looking to collaborate on React projects
 - 📫 Feel free to reach out on LinkedIn: https://www.linkedin.com/in/renato-mignogna/
 - ⭐️ Or email me at renmignogna@gmail.com
