@@ -2,7 +2,7 @@ I am a Frontend Developer proficient in the modern JavaScript stack with experie
 
 After years of being fascinated by programming and software development (I started creating websites for small clients more than 5 years ago) I decided to turn my side gig into a profession and build a professional career as a frontend developer. With the aim of professionalizing my skills I successfully graduated from General Assembly gaining proficiency in JavaScript technology and started my software development career.
 
-Currently I work at Plentific as a frontend developer building the main client side application, dealing with complex dashboards, state management and the various challenges of performant frontend applications.
+Currently I work at MMT Digital as a Frontend Engineer.
 
 As a hobby, I like playing the drums, playing football and learning about new technologies.
 
