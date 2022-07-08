@@ -6,7 +6,7 @@ Currently I work at MMT Digital as a Frontend Engineer.
 
 As a hobby, I like playing the drums, playing football and learning about new technologies.
 
-Technologies: JavaScript, TypeScript, React, Next JS, Node, GraphQL, AWS(S3, EC2), REST APIs, HTML 5, CSS3, Git, Gitlab, Bootstrap, SASS, PostgreSQL, Jira, Confluence
+Technologies: JavaScript, TypeScript, React, Next JS, Node, GraphQL, AWS(S3, EC2), CI/CD, REST API, Git, Gitlab, Jest, Enzyme, React Testing Library, Cypress, HTML, CSS, Tailwind, SASS, PostgreSQL, MongoDB, Express.
 
 - 📫 Feel free to reach out on LinkedIn: https://www.linkedin.com/in/renato-mignogna/
 - ⭐️ Or email me at renmignogna@gmail.com
