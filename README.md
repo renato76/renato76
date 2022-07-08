@@ -6,7 +6,7 @@ Currently I work at MMT Digital as a Frontend Engineer.
 
 As a hobby, I like playing the drums, playing football and learning about new technologies.
 
-Technologies: JavaScript, TypeScript, React, Next JS, Node, GraphQL, AWS(S3, EC2), CI/CD, Headless CMS (Kontent by Kentico), Azure Pipelines, REST API, Git, Gitlab, Jest, Enzyme, React Testing Library, Cypress, HTML, CSS, Tailwind, SASS, PostgreSQL, MongoDB, Express.
+Technologies: JavaScript, TypeScript, React, React Native, Next JS, Node, GraphQL, AWS(S3, EC2), CI/CD, Headless CMS (Kontent by Kentico), Azure Pipelines, Google Cloud Platform, REST API, Git, Gitlab, Jest, Enzyme, React Testing Library, Cypress, Tailwind, SASS, PostgreSQL, MongoDB, Express.
 
 - 📫 Feel free to reach out on LinkedIn: https://www.linkedin.com/in/renato-mignogna/
 - ⭐️ Or email me at renmignogna@gmail.com
