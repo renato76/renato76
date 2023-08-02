@@ -6,7 +6,10 @@ Currently I work at Hargreaves Lansdown as a Frontend Developer.
 
 As a hobby, I like playing the drums, playing football and learning about new technologies.
 
-Technologies: JavaScript, TypeScript, React, React Native, Next JS, Node, GraphQL, AWS(S3, EC2), CI/CD, Headless CMS (Kontent by Kentico), Azure Pipelines, Google Cloud Platform, REST API, Git, Gitlab, Jest, Enzyme, React Testing Library, Cypress, Tailwind, SASS, PostgreSQL, MongoDB, Express.
+Technologies: React.js, Next.js, Redux, Node.js, Express, PostgreSQL, MongoDB, AWS (EC2, S3, CloudFront, ), Docker, GraphQL, Cypress, Cucumber, Jest, Enzyme, React Testing Library, React Query, Storybook, Webpack, Git, GitLab, Vite.js, NX Build System for Monorepos, Swagger API Design, Formik, Postman, OAuth, JWT Authentication, HTML, CSS, SCSS, Jira, Confluence
+
+Other Skills: Web Performance, Accessibility, Code Reviews, Debugging, Responsive Web Development, REST API Design, Documentation.
+
 
 - 📫 Feel free to reach out on LinkedIn: https://www.linkedin.com/in/renato-mignogna/
 - ⭐️ Or email me at renmignogna@gmail.com
