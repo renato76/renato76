@@ -2,7 +2,7 @@ I am a Frontend Developer proficient in the modern JavaScript stack with 3 years
 
 After years of being fascinated by programming and software development (I started creating websites for small clients more than 5 years ago) I decided to turn my side gig into a profession and build a professional career as a frontend developer. With the aim of professionalizing my skills I successfully graduated from General Assembly gaining proficiency in JavaScript technology and started my software development career.
 
-Currently I work at Hargreaves Lansdown as a Frontend Developer.
+Currently I work at Money & Pensions Service as a Senior Frontend Developer.
 
 As a hobby, I like playing the drums, playing football and learning about new technologies.
 
