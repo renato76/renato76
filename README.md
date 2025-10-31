@@ -1,14 +1,10 @@
-I am a Frontend Developer proficient in the modern JavaScript stack with 3 years of experience using the latest web technologies including React.js, TypeScript, Next.js and Node.js. I also have hands-on experience with AWS on the cloud, particularly EC2 and S3. Always looking to improve myself I love contributing to Agile software companies building amazing experiences on the Web. I care about writing clean code, working collaboratively, and learning new technologies.
+I'm a Senior Frontend Developer with over 5 years of experience building fast, accessible, and user-centered web applications. I specialize in React.js, Next.js, and TypeScript, and have worked across startups, creative agencies, and financial organizations in both public and private sectors.
 
-After years of being fascinated by programming and software development (I started creating websites for small clients more than 5 years ago) I decided to turn my side gig into a profession and build a professional career as a frontend developer. With the aim of professionalizing my skills I successfully graduated from General Assembly gaining proficiency in JavaScript technology and started my software development career.
+Currently, I’m part of the team behind MoneyHelper, where we develop trusted tools that help people in the UK make informed financial decisions. I’ve worked on high-impact projects like the Budget Planner, Redundancy Pay Calculator, Mortgage Calculator, and Stamp Duty tools - all built with a focus on clarity, accessibility, and usability for a diverse audience.
 
-Currently I work at Money & Pensions Service as a Senior React Developer.
+I enjoy collaborating closely with designers and stakeholders to bring intuitive experiences to life. I’m passionate about clean, scalable code, performance optimization, and building inclusive tools that make a real difference in people's lives.
 
-As a hobby, I like playing the drums, playing football and learning about new technologies.
-
-Technologies: React.js, Next.js, Redux, Node.js, Express, PostgreSQL, MongoDB, AWS (EC2, S3, CloudFront, SDK, Lambda, Amplify), Docker, GraphQL, Cypress, Cucumber, Jest, Enzyme, React Testing Library, React Query, Storybook, Webpack, Git, GitLab, Vite.js, NX Build System for Monorepos, Swagger API Design, Formik, Postman, OAuth, JWT Authentication, HTML, CSS, SCSS, Jira, Confluence
-
-Other Skills: Web Performance, Accessibility, Code Reviews, Debugging, Responsive Web Development, REST API Design, Documentation.
+Outside of work, I enjoy playing the drums, football, and exploring new technologies.
 
 
 - 📫 Feel free to reach out on LinkedIn: https://www.linkedin.com/in/renato-mignogna/
